@@ -8,7 +8,7 @@ def mulplicar_por(mulplicar_por):
 num1 = mulplicar_por(10)
 num2 = mulplicar_por(5)
 
-# print(num1(4))
+print(num1(4))
 # print(num1(40))
 # print(num1(32))
 # print(num1(45))
@@ -20,6 +20,6 @@ num2 = mulplicar_por(5)
 # print(num2(45))
 
 
-soma = '1' + "1"
-print("soma = ", soma)
+# soma = '1' + "1"
+# print("soma = ", soma)
 
